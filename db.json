@@ -1,0 +1,32 @@
+"OriginAirports": [
+		{
+			"name": "Biju Patnaik International Airport",
+			"city": "Bhubaneswar",
+			"location": "northwest of Downtown Bhubaneswar",
+			"code": "BPIA"
+		},
+		{
+			"name": "Khandagiri Airport",
+			"city": "Bhubaneswar",
+			"location": "southwest of Downtown Bhubaneswar",
+			"code": "KHA"
+		},
+		{
+			"name": "FakirMohan Airport",
+			"city": "Balasore",
+			"location": "11 miles north of downtown ITI Square",
+			"code": "FMA"
+		},
+		{
+			"name": "Khirachora Airport",
+			"city": "Balasore",
+			"location": "5mile ahead From Remuna",
+			"code": "KCA"
+		},
+		{
+			"name": "ShreeKhetra Airport",
+			"city": "Puri",
+			"location": "Near Jagannath Temple",
+			"code": "SKA"
+		}
+	]
