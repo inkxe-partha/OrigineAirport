@@ -1,4 +1,5 @@
-"OriginAirports": [
+{
+	"OriginAirports": [
 		{
 			"name": "Biju Patnaik International Airport",
 			"city": "Bhubaneswar",
@@ -30,3 +31,4 @@
 			"code": "SKA"
 		}
 	]
+}
