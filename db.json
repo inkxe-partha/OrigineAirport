@@ -1,34 +1,62 @@
 {
 	"OriginAirports": [
-		{
+		{	 "id" : 10,
 			"name": "Biju Patnaik International Airport",
 			"city": "Bhubaneswar",
 			"location": "northwest of Downtown Bhubaneswar",
 			"code": "BPIA"
+			"address" : "Bhubaneswar, Orissa",
+			"information" : "BBSR Airport Longue",
+ 			"is_available" : 1, 
+ 			"available_time" : "Mon-thu 8 AM to 8 PM"
+				
 		},
-		{
+		{	"id" : 11,
 			"name": "Khandagiri Airport",
 			"city": "Bhubaneswar",
 			"location": "southwest of Downtown Bhubaneswar",
 			"code": "KHA"
+			"address" : "Bhubaneswar, Orissa",
+			"information" : "BBSR Airport Longue",
+ 			"is_available" : 1,
+ 			"available_time" : "AllDay"
+			 
 		},
-		{
+		{	
+			"id" : 12,
 			"name": "FakirMohan Airport",
 			"city": "Balasore",
 			"location": "11 miles north of downtown ITI Square",
 			"code": "FMA"
+			"address" : "Balasore, Orissa",
+			"information" : "Balasore Airport Longue",
+ 			"is_available" : 1,
+ 			"available_time" : "Mon-fri 6 AM to 4:30 PM"
+			 
 		},
-		{
+		{	
+			"id" : 13,
 			"name": "Khirachora Airport",
 			"city": "Balasore",
 			"location": "5mile ahead From Remuna",
 			"code": "KCA"
+			"address" : "Balasore, Orissa",
+			"information" : "Balasore Airport Longue",
+ 			"is_available" : 1,
+ 			"available_time" : "AllDay"
+			 
 		},
-		{
+		{	
+			"id" : 14,
 			"name": "ShreeKhetra Airport",
 			"city": "Puri",
 			"location": "Near Jagannath Temple",
 			"code": "SKA"
+			"address" : "Puri, Orissa",
+			"information" : "Puri Airport Longue",
+ 			"is_available" : 1,
+ 			"available_time" : "Sun-Wed 6 AM to 10 PM"
+			 
 		}
 	]
 }
